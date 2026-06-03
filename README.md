@@ -4,8 +4,7 @@
 ![Course](https://img.shields.io/badge/Course-MANU2518%20Advanced%20Manufacturing%20and%20Mechatronics-blue)
 
 <!-- 📸 Hero Image Placeholder: Upload your best full-body photo of the final robot here -->
-![Final Robot Full Body]
-<img width="870" height="863" alt="image" src="https://github.com/user-attachments/assets/621f60a4-4ce3-4fd9-9f4c-be4962abc448" />
+![Final Robot Full Body](https://github.com/user-attachments/assets/621f60a4-4ce3-4fd9-9f4c-be4962abc448")
 
 
 ## 📖 Project Background
