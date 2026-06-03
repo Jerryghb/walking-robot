@@ -28,11 +28,11 @@ Unlike wheeled robots that rely on rolling, the Jansen mechanism translates cont
 * **Power Source:** 9V Battery.
 * **Actuator:** Standard DC Motor.
 
-Laser Cutting Design
+* Laser Cutting Design
 <img width="1256" height="916" alt="image" src="https://github.com/user-attachments/assets/56ce7a67-9b93-47bf-8e27-467a981f31c8" />
 <img width="811" height="386" alt="image" src="https://github.com/user-attachments/assets/3f7ca7c4-0c2e-42c3-869a-3a9f5917dd63" />
 
-3D Printed Holder
+* 3D Printed Holder
 <img width="694" height="578" alt="image" src="https://github.com/user-attachments/assets/64f5a99c-4898-4828-bae9-b12e39f39e73" />
 <img width="643" height="581" alt="image" src="https://github.com/user-attachments/assets/c35c19c3-2858-49eb-9fd2-6002b3b82489" />
 
